@@ -1,6 +1,8 @@
 # Temperature-Census
 
-This project aims to examine previous temperature data collected from several global weather monitoring systems. The monthly land and ocean temperature values from 1750 to 2015 are included in the dataset. The project includes computations and graphs to determine insightful information and trends using C programming and GNU Plot. The main file is separated into 'questions' that answer prompts regarding the data. When running the code, use the following options to create and observe the necessary files. These files are also found on the main branch.
+This project aims to examine previous temperature data collected from several global weather monitoring systems. The monthly land and ocean temperature values from 1750 to 2015 are included in the dataset. The project includes computations and graphs to determine insightful information and trends using C programming and GNU Plot. <br>
+
+The main file is separated into 'questions' that answer prompts regarding the data. When running the code, use the following options to create and observe the necessary files. These files are also found on the main branch.
 
 ## Prompts
 
