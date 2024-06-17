@@ -51,6 +51,14 @@ plot "LandAverageYEAR.txt" using 1:2 with linespoints title 'Temperature', \
      '' using 1:2 smooth bezier title 'Trend' # Note that this line of code can be changed to create a visual of your liking
 ```
 
+## Graphs
+![Q6](https://github.com/shawnn101/Temperature-Census/assets/172000787/4a75c24a-7612-4332-804d-7a7d0c28663d)
+![Q7](https://github.com/shawnn101/Temperature-Census/assets/172000787/b3df7fb2-0256-4a2d-aab5-9944ec1cde8a)
+![Q8](https://github.com/shawnn101/Temperature-Census/assets/172000787/ef17b2b4-0891-463c-82c4-daf69b4a3623)
+![Q9](https://github.com/shawnn101/Temperature-Census/assets/172000787/4a9fd201-06fa-4a6c-b24e-95f41012ad07)
+![Q10](https://github.com/shawnn101/Temperature-Census/assets/172000787/4d5b348d-7c5d-4d80-928b-4068e683ee11)
+![Q11](https://github.com/shawnn101/Temperature-Census/assets/172000787/c5b2034f-af69-4dd4-beb5-6cea09685e13)
+
 ## Information
 
 Date Created: March 2024 <br>
