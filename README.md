@@ -8,16 +8,16 @@ The main file is separated into 'questions' that answer prompts regarding the da
 
 Question 1 (q1) - Yearly Average (1760-2015) <br>
 Question 2 (q2) - Century Averages (18th-21st) <br>
-Question 1 (q1) - 
-Question 1 (q1) - 
-Question 1 (q1) - 
-Question 1 (q1) - 
-Question 1 (q1) - 
-Question 1 (q1) - 
-Question 1 (q1) - 
-Question 1 (q1) - 
-Question 1 (q1) - 
-Question 1 (q1) - 
+Question 3 (q3) - Monthly Averages (1900-2015)<br>
+Question 4 (q4) - Hottest and Coldest Month<br>
+Question 5 (q5) - Hottest and Coldest Year<br>
+Question 6 (q6) - GNU - Yearly Temp (1760-2015)<br>
+Question 7 (q7) - GNU - 100 Year Temp (19th-20th Centuries)<br>
+Question 8 (q8) - GNU - Land, Max, Min Temp (1850-2015)<br>
+Question 9 (q9) - GNU - Land, Max, Min Temp (18th-21st Century)<br>
+Question 10 (q10) - GNU - Average Temperature per Month with Uncertainty (2000-2015)<br>
+Question 11 (q11) - GNU - Land and Ocean Temperature Average (1850-2015)<br>
+
 
 
 ## Libraries
@@ -51,13 +51,7 @@ plot "LandAverageYEAR.txt" using 1:2 with linespoints title 'Temperature', \
      '' using 1:2 smooth bezier title 'Trend' # Note that this line of code can be changed to create a visual of your liking
 ```
 
-## Contributing
+## Information
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+Date Created: March 2024
+Date Published: April 2024 (Private Viewing), 
