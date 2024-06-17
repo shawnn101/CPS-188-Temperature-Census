@@ -1,0 +1,2 @@
+Hottest Year: 2015, Average Temperature: 9.83
+Coldest Year: 1768, Average Temperature: 6.78

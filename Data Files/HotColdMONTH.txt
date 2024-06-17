@@ -1,0 +1,2 @@
+Hottest Month-Year: 7-1761, Temperature: 19.02
+Coldest Month-Year: 1-1768, Temperature: -2.08
