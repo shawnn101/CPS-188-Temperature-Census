@@ -5,13 +5,14 @@ This project aims to examine previous temperature data collected from several gl
 
 ## Libraries
 
-```bash
+```c
+#include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <math.h>
 ```
 
-## Usage
+## GNU Plot Script 
 
 ```python
 import foobar
