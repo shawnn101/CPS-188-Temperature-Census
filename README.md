@@ -1,13 +1,14 @@
 # Temperature-Census
 
-Foobar is a Python library for dealing with word pluralization.
+This project aims to examine previous temperature data collected from several global weather monitoring systems. The monthly land and ocean temperature values from 1750 to 2015 are included in the dataset. The project includes computations and graphs to determine insightful information and trends using C programming and GNU Plot. The main file is separated into 'questions' that answer prompts regarding the data.
 
-## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+## Libraries
 
 ```bash
-pip install foobar
+#include <stdlib.h>
+#include <string.h>
+#include <math.h>
 ```
 
 ## Usage
