@@ -2,6 +2,21 @@
 
 This project aims to examine previous temperature data collected from several global weather monitoring systems. The monthly land and ocean temperature values from 1750 to 2015 are included in the dataset. The project includes computations and graphs to determine insightful information and trends using C programming and GNU Plot. The main file is separated into 'questions' that answer prompts regarding the data.
 
+## Prompts
+
+Question 1 (q1) -  /<br>
+Question 1 (q1) - 
+Question 1 (q1) - 
+Question 1 (q1) - 
+Question 1 (q1) - 
+Question 1 (q1) - 
+Question 1 (q1) - 
+Question 1 (q1) - 
+Question 1 (q1) - 
+Question 1 (q1) - 
+Question 1 (q1) - 
+Question 1 (q1) - 
+
 
 ## Libraries
 
@@ -12,19 +27,26 @@ This project aims to examine previous temperature data collected from several gl
 #include <math.h>
 ```
 
-## GNU Plot Script 
+## GNU Plot Sample Script 
 
-```python
-import foobar
+```gnuplot
+# Question 6
 
-# returns 'words'
-foobar.pluralize('word')
+# Set output format to PNG
+set terminal pngcairo enhanced font 'Verdana,10'
+set output 'annual temp_plot.png'
 
-# returns 'geese'
-foobar.pluralize('goose')
+# Set titles and labels
+set title "Yearly Average Temperatures"
+set xlabel "Year"
+set ylabel "Temperature (°C)"
 
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+# Set grid
+set grid
+
+# Plot the data from the specified file
+plot "LandAverageYEAR.txt" using 1:2 with linespoints title 'Temperature', \
+     '' using 1:2 smooth bezier title 'Trend' # Note that this line of code can be changed to create a visual of your liking
 ```
 
 ## Contributing
