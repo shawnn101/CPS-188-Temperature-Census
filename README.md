@@ -62,4 +62,4 @@ plot "LandAverageYEAR.txt" using 1:2 with linespoints title 'Temperature', \
 ## Information
 
 Date Created: March 2024 <br>
-Date Published: April 2024 (Private Viewing), 
+Date Published: April 2024 (Private Viewing), July 2024 (Public)
